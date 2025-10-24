@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Udit Upadhyay</h1>
-<h3 align="center">A Student Currently Studying at NMIMS- MPSTME</h3>
+<h3 align="center">I Like Servers</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udit-jpg&label=Profile%20views&color=0e75b6&style=flat" alt="udit-jpg" /> </p>
 
